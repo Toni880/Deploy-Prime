@@ -9,4 +9,4 @@ RUN sudo pip3 install -U -r requirements.txt
 WORKDIR /root/Prime
 
 # Run bot
-CMD ["python3", "Prime"]
+CMD ["python3", "-m", "Prime"]
