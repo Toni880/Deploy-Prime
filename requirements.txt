@@ -1,0 +1,14 @@
+pyrogram==1.4.16
+tgcrypto
+aiohttp==3.6.2
+pymongo
+motor
+dnspython
+requests
+asyncio
+pillow
+GitPython
+heroku3
+python-dotenv
+telegraph==1.4.1
+numpy
